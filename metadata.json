@@ -1,8 +1,30 @@
 {
   "gallery_title": "Snarlcore Gallery",
   "gallery_description": "VRChat Dynamic Gallery",
-  "last_updated": "2026-05-08 15:49:05",
+  "last_updated": "2026-05-08 15:59:47",
   "images": [
+    {
+      "file_hash": "82c1800e",
+      "date": "2025-10-30",
+      "title": "Celestia",
+      "description": "",
+      "category": "Uncategorized",
+      "tags": [
+        "FRAME04"
+      ],
+      "photographer": "Mei Lynn"
+    },
+    {
+      "file_hash": "ff6676bd",
+      "date": "2025-07-21",
+      "title": "Celestia",
+      "description": "",
+      "category": "Uncategorized",
+      "tags": [
+        "FRAME03"
+      ],
+      "photographer": "Jasmine Vazquez Starbuck"
+    },
     {
       "file_hash": "b23f0788",
       "date": "2026-04-03",
