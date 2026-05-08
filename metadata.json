@@ -1,0 +1,26 @@
+{
+  "gallery_title": "Snarlcore Gallery",
+  "gallery_description": "VRChat Dynamic Gallery",
+  "last_updated": "2026-05-08 13:25:26",
+  "images": [
+    {
+      "file_hash": "c435564d",
+      "date": "2025-12-21",
+      "title": "Selune demo test",
+      "description": "Decs",
+      "category": "Uncategorized",
+      "tags": [
+        "TAGS"
+      ],
+      "photographer": "BY"
+    }
+  ],
+  "categories": [
+    "Uncategorized",
+    "Main Event",
+    "Selfie",
+    "Landscape",
+    "Group Photo"
+  ],
+  "base_url": "https://vr-video.github.io/snarlcore_gallery"
+}
