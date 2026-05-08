@@ -1,25 +1,144 @@
 {
   "gallery_title": "Snarlcore Gallery",
   "gallery_description": "VRChat Dynamic Gallery",
-  "last_updated": "2026-05-08 15:59:47",
+  "last_updated": "2026-05-08 16:50:55",
   "images": [
+    {
+      "file_hash": "fe20e3ac",
+      "date": "2026-01-25",
+      "title": "",
+      "description": "",
+      "category": "Uncategorized",
+      "tags": [],
+      "photographer": ""
+    },
+    {
+      "file_hash": "92750524",
+      "date": "2026-01-11",
+      "title": "Feral by Choice",
+      "description": "",
+      "category": "Spotify Canvas",
+      "tags": [
+        "FRAME02"
+      ],
+      "photographer": "Insane's Furry Art"
+    },
+    {
+      "file_hash": "e04c65e8",
+      "date": "2026-01-25",
+      "title": "Mirror Dwellers",
+      "description": "",
+      "category": "Spotify Canvas",
+      "tags": [
+        "FRAME01"
+      ],
+      "photographer": "Marblezz"
+    },
+    {
+      "file_hash": "723ca651",
+      "date": "2026-05-08",
+      "title": "Album cover",
+      "description": "",
+      "category": "Album Covers",
+      "tags": [
+        "FRAME12"
+      ],
+      "photographer": "ItsgonnaRayne"
+    },
+    {
+      "file_hash": "18f349bf",
+      "date": "2026-04-03",
+      "title": "Selune",
+      "description": "",
+      "category": "Selune Asterveil",
+      "tags": [
+        "FRAME11"
+      ],
+      "photographer": "Anima Animations"
+    },
+    {
+      "file_hash": "3b1de286",
+      "date": "2026-01-23",
+      "title": "Selune",
+      "description": "",
+      "category": "Selune Asterveil",
+      "tags": [
+        "FRAME10"
+      ],
+      "photographer": "Russel John Mesa"
+    },
+    {
+      "file_hash": "e959c900",
+      "date": "2025-06-15",
+      "title": "Selune Asterveil",
+      "description": "",
+      "category": "Selune Asterveil",
+      "tags": [
+        "FRAME09"
+      ],
+      "photographer": "Reese Megan"
+    },
+    {
+      "file_hash": "bd624e7f",
+      "date": "2025-07-21",
+      "title": "Selune Asterveil",
+      "description": "",
+      "category": "Selune Asterveil",
+      "tags": [
+        "FRAME08"
+      ],
+      "photographer": "Disco Snail"
+    },
+    {
+      "file_hash": "7b387a13",
+      "date": "2025-11-26",
+      "title": "Celestia Vulpes",
+      "description": "",
+      "category": "Celestia Vulpes",
+      "tags": [
+        "FRAME07"
+      ],
+      "photographer": "Anima Animations"
+    },
+    {
+      "file_hash": "a8b7635a",
+      "date": "2026-01-04",
+      "title": "Selune Graffity",
+      "description": "",
+      "category": "Selune Asterveil",
+      "tags": [
+        "FRAME06"
+      ],
+      "photographer": "Insane Furry Art"
+    },
+    {
+      "file_hash": "67b373cc",
+      "date": "2025-10-30",
+      "title": "Selune Asterveil",
+      "description": "",
+      "category": "Selune Asterveil",
+      "tags": [
+        "FRAME05"
+      ],
+      "photographer": "Meii Lyn"
+    },
     {
       "file_hash": "82c1800e",
       "date": "2025-10-30",
       "title": "Celestia",
       "description": "",
-      "category": "Uncategorized",
+      "category": "Celestia Vulpes",
       "tags": [
         "FRAME04"
       ],
-      "photographer": "Mei Lynn"
+      "photographer": "Meii Lyn"
     },
     {
       "file_hash": "ff6676bd",
       "date": "2025-07-21",
       "title": "Celestia",
       "description": "",
-      "category": "Uncategorized",
+      "category": "Celestia Vulpes",
       "tags": [
         "FRAME03"
       ],
@@ -30,7 +149,7 @@
       "date": "2026-04-03",
       "title": "Selune Close-up",
       "description": "",
-      "category": "FRAME01",
+      "category": "Selune Asterveil",
       "tags": [
         "FRAME01"
       ],
@@ -41,7 +160,7 @@
       "date": "2026-04-03",
       "title": "Selune",
       "description": "art for Album",
-      "category": "FRAME01",
+      "category": "Selune Asterveil",
       "tags": [
         "FRAME02"
       ],
@@ -50,7 +169,12 @@
   ],
   "categories": [
     "Uncategorized",
-    "FRAME01"
+    "Celestia Vulpes",
+    "Selune Asterveil",
+    "Fixel Varnyx",
+    "Ramira Woolstorm",
+    "Album Covers",
+    "Spotify Canvas"
   ],
   "base_url": "https://vr-video.github.io/snarlcore-gallery"
 }
