@@ -1,8 +1,19 @@
 {
   "gallery_title": "Snarlcore Gallery",
   "gallery_description": "VRChat Dynamic Gallery",
-  "last_updated": "2026-05-08 19:11:45",
+  "last_updated": "2026-05-08 19:21:58",
   "images": [
+    {
+      "file_hash": "83c4dee7",
+      "date": "2026-05-08",
+      "title": "Fun Art- Feral by Choice",
+      "description": "",
+      "category": "FUN",
+      "tags": [
+        "FRAME12"
+      ],
+      "photographer": "Godzilla"
+    },
     {
       "file_hash": "485c39ea",
       "date": "2025-07-27",
