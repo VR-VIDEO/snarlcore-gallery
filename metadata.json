@@ -1,16 +1,249 @@
 {
   "gallery_title": "Snarlcore Gallery",
   "gallery_description": "VRChat Dynamic Gallery",
-  "last_updated": "2026-05-08 16:50:55",
+  "last_updated": "2026-05-08 19:11:45",
   "images": [
     {
-      "file_hash": "fe20e3ac",
+      "file_hash": "485c39ea",
+      "date": "2025-07-27",
+      "title": "SNARLCORE single",
+      "description": "",
+      "category": "Album Covers",
+      "tags": [
+        "FRAME11"
+      ],
+      "photographer": "Lesya_DA & Kita"
+    },
+    {
+      "file_hash": "4d8f3f4c",
+      "date": "2026-05-08",
+      "title": "",
+      "description": "",
+      "category": "Album Covers",
+      "tags": [
+        "FRAME10"
+      ],
+      "photographer": "Anima Animations"
+    },
+    {
+      "file_hash": "d01e27ad",
+      "date": "2026-05-08",
+      "title": "Howl-O-Ween Riot",
+      "description": "",
+      "category": "Album Covers",
+      "tags": [
+        "FRAME09"
+      ],
+      "photographer": "Disco Snail"
+    },
+    {
+      "file_hash": "01fe94fa",
+      "date": "2025-08-26",
+      "title": "Now You're Furry",
+      "description": "",
+      "category": "Spotify Canvas",
+      "tags": [
+        "FRAME08"
+      ],
+      "photographer": "Disco Snail"
+    },
+    {
+      "file_hash": "b86ffd4a",
+      "date": "2026-05-03",
+      "title": "Logo",
+      "description": "",
+      "category": "Uncategorized",
+      "tags": [
+        "FRAME07"
+      ],
+      "photographer": "Insane's Furry Art"
+    },
+    {
+      "file_hash": "1f0d1561",
       "date": "2026-01-25",
+      "title": "Selune Fan art ",
+      "description": "",
+      "category": "Uncategorized",
+      "tags": [
+        "FRAME07"
+      ],
+      "photographer": "Marblezz"
+    },
+    {
+      "file_hash": "8024921b",
+      "date": "2026-01-25",
+      "title": "Calm Selune",
+      "description": "",
+      "category": "Selune Asterveil",
+      "tags": [
+        "FRAME06"
+      ],
+      "photographer": "Jasmine Vazquez Starbuck"
+    },
+    {
+      "file_hash": "2f1ba4cf",
+      "date": "2026-01-25",
+      "title": "Celestia",
+      "description": "",
+      "category": "Celestia Vulpes",
+      "tags": [
+        "FRAME05"
+      ],
+      "photographer": "Marblezz"
+    },
+    {
+      "file_hash": "84301136",
+      "date": "2026-01-25",
+      "title": "No collar no Gods",
+      "description": "",
+      "category": "Selune Asterveil",
+      "tags": [
+        "FRAME04"
+      ],
+      "photographer": "Rikku Vattic"
+    },
+    {
+      "file_hash": "71f51576",
+      "date": "2026-04-06",
+      "title": "Ramira Woolstorm",
+      "description": "",
+      "category": "Ramira Woolstorm",
+      "tags": [
+        "FRAME03"
+      ],
+      "photographer": "Rikku Vattic"
+    },
+    {
+      "file_hash": "5ab41c0f",
+      "date": "2026-02-22",
+      "title": "Celestia Vulpes",
+      "description": "",
+      "category": "Celestia Vulpes",
+      "tags": [
+        "FRAME02"
+      ],
+      "photographer": "Rikku Vattic"
+    },
+    {
+      "file_hash": "9cd32fcc",
+      "date": "2026-03-07",
+      "title": "part of album art",
+      "description": "",
+      "category": "Uncategorized",
+      "tags": [
+        "FRAME01"
+      ],
+      "photographer": "Nevari"
+    },
+    {
+      "file_hash": "4785d001",
+      "date": "2026-03-06",
       "title": "",
       "description": "",
       "category": "Uncategorized",
-      "tags": [],
+      "tags": [
+        "FRAME12"
+      ],
       "photographer": ""
+    },
+    {
+      "file_hash": "c7473370",
+      "date": "2026-03-14",
+      "title": "Selune",
+      "description": "",
+      "category": "Selune Asterveil",
+      "tags": [
+        "FRAME11"
+      ],
+      "photographer": "Katsolot"
+    },
+    {
+      "file_hash": "8bf83d00",
+      "date": "2026-04-11",
+      "title": "Celestia",
+      "description": "",
+      "category": "Celestia Vulpes",
+      "tags": [
+        "FRAME10"
+      ],
+      "photographer": "KasWho"
+    },
+    {
+      "file_hash": "cf328876",
+      "date": "2026-05-08",
+      "title": "GAYTOR MEME",
+      "description": "",
+      "category": "FUN",
+      "tags": [
+        "FRAME09"
+      ],
+      "photographer": "Insane's Furry Art"
+    },
+    {
+      "file_hash": "d7ebea31",
+      "date": "2026-05-08",
+      "title": "Fixel Varnyx",
+      "description": "",
+      "category": "Fixel Varnyx",
+      "tags": [
+        "FRAME08"
+      ],
+      "photographer": "Insane's Furry Art"
+    },
+    {
+      "file_hash": "796cc386",
+      "date": "2026-05-08",
+      "title": "Fixel Varnyx",
+      "description": "",
+      "category": "Fixel Varnyx",
+      "tags": [
+        "FRAME07"
+      ],
+      "photographer": "Insane's Furry Art"
+    },
+    {
+      "file_hash": "91f1cea4",
+      "date": "2026-05-08",
+      "title": "Celestia",
+      "description": "",
+      "category": "Uncategorized",
+      "tags": [
+        "FRAME06"
+      ],
+      "photographer": "Insane's Furry Art"
+    },
+    {
+      "file_hash": "10709f7e",
+      "date": "2026-05-08",
+      "title": "Stardust Memmory",
+      "description": "",
+      "category": "Album Covers",
+      "tags": [
+        "FRAME05"
+      ],
+      "photographer": "Insane's Furry Art"
+    },
+    {
+      "file_hash": "a4bc3553",
+      "date": "2026-05-08",
+      "title": "Archive  ",
+      "description": "",
+      "category": "Uncategorized",
+      "tags": [
+        "FRAME04"
+      ],
+      "photographer": "Insane's Furry Art"
+    },
+    {
+      "file_hash": "fe20e3ac",
+      "date": "2026-05-08",
+      "title": "Love card",
+      "description": "",
+      "category": "FUN",
+      "tags": [
+        "FRAME03"
+      ],
+      "photographer": "Insane's Furry Art"
     },
     {
       "file_hash": "92750524",
@@ -37,7 +270,7 @@
     {
       "file_hash": "723ca651",
       "date": "2026-05-08",
-      "title": "Album cover",
+      "title": "Riled Fur",
       "description": "",
       "category": "Album Covers",
       "tags": [
@@ -109,7 +342,7 @@
       "tags": [
         "FRAME06"
       ],
-      "photographer": "Insane Furry Art"
+      "photographer": "Insane's Furry Art"
     },
     {
       "file_hash": "67b373cc",
@@ -174,7 +407,8 @@
     "Fixel Varnyx",
     "Ramira Woolstorm",
     "Album Covers",
-    "Spotify Canvas"
+    "Spotify Canvas",
+    "FUN"
   ],
   "base_url": "https://vr-video.github.io/snarlcore-gallery"
 }
