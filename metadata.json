@@ -1,8 +1,17 @@
 {
   "gallery_title": "Snarlcore Gallery",
   "gallery_description": "VRChat Dynamic Gallery",
-  "last_updated": "2026-05-08 14:44:33",
+  "last_updated": "2026-05-08 15:45:15",
   "images": [
+    {
+      "file_hash": "b23f0788",
+      "date": "2026-04-03",
+      "title": "Selune Close-up",
+      "description": "",
+      "category": "FRAME01",
+      "tags": [],
+      "photographer": "Disco Snail"
+    },
     {
       "file_hash": "c435564d",
       "date": "2026-04-03",
