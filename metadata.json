@@ -1,7 +1,7 @@
 {
   "gallery_title": "Snarlcore Gallery",
   "gallery_description": "VRChat Dynamic Gallery",
-  "last_updated": "2026-05-08 13:25:26",
+  "last_updated": "2026-05-08 13:30:05",
   "images": [
     {
       "file_hash": "c435564d",
@@ -22,5 +22,5 @@
     "Landscape",
     "Group Photo"
   ],
-  "base_url": "https://vr-video.github.io/snarlcore_gallery"
+  "base_url": "https://vr-video.github.io/snarlcore-gallery"
 }
