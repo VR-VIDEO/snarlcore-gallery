@@ -1,8 +1,19 @@
 {
   "gallery_title": "Snarlcore Gallery",
   "gallery_description": "VRChat Dynamic Gallery",
-  "last_updated": "2026-05-08 21:06:37",
+  "last_updated": "2026-05-08 21:23:35",
   "images": [
+    {
+      "file_hash": "6c7febbd",
+      "date": "2026-05-08",
+      "title": "Fan Art- Selune",
+      "description": "",
+      "category": "Selune Asterveil",
+      "tags": [
+        "FRAME01"
+      ],
+      "photographer": "Godzilla"
+    },
     {
       "file_hash": "83c4dee7",
       "date": "2026-05-08",
@@ -52,7 +63,7 @@
       "date": "2025-08-26",
       "title": "Now You're Furry",
       "description": "",
-      "category": "Spotify Canvas",
+      "category": "Album Covers",
       "tags": [
         "FRAME08"
       ],
@@ -74,7 +85,7 @@
       "date": "2026-01-25",
       "title": "Selune Fan art ",
       "description": "",
-      "category": "Uncategorized",
+      "category": "Selune Asterveil",
       "tags": [
         "FRAME07"
       ],
@@ -140,7 +151,7 @@
       "date": "2026-03-07",
       "title": "part of album art",
       "description": "",
-      "category": "Uncategorized",
+      "category": "Selune Asterveil",
       "tags": [
         "FRAME01"
       ],
