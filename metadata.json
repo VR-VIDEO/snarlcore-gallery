@@ -1,8 +1,19 @@
 {
   "gallery_title": "Snarlcore Gallery",
   "gallery_description": "VRChat Dynamic Gallery",
-  "last_updated": "2026-05-09 22:56:34",
+  "last_updated": "2026-05-09 23:10:42",
   "images": [
+    {
+      "file_hash": "c7a001cb",
+      "date": "2026-05-09",
+      "title": "Selune with FoxFang Riotcaster",
+      "description": "",
+      "category": "Uncategorized",
+      "tags": [
+        "FRAME02"
+      ],
+      "photographer": "Robin"
+    },
     {
       "file_hash": "a3943d43",
       "date": "2026-05-09",
