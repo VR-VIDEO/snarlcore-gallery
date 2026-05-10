@@ -1,8 +1,19 @@
 {
   "gallery_title": "Snarlcore Gallery",
   "gallery_description": "VRChat Dynamic Gallery",
-  "last_updated": "2026-05-08 21:23:35",
+  "last_updated": "2026-05-09 21:53:57",
   "images": [
+    {
+      "file_hash": "7c9489ef",
+      "date": "2026-05-09",
+      "title": "graffiti",
+      "description": "",
+      "category": "Graffiti",
+      "tags": [
+        "FRAME02"
+      ],
+      "photographer": "BUNNI"
+    },
     {
       "file_hash": "6c7febbd",
       "date": "2026-05-08",
