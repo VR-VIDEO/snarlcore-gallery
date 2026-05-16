@@ -1,8 +1,17 @@
 {
   "gallery_title": "Snarlcore Gallery",
   "gallery_description": "VRChat Dynamic Gallery",
-  "last_updated": "2026-05-15 17:26:16",
+  "last_updated": "2026-05-16 18:59:20",
   "images": [
+    {
+      "file_hash": "cc1a4d9a",
+      "date": "2026-05-16",
+      "title": "",
+      "description": "",
+      "category": "Graffiti",
+      "tags": [],
+      "photographer": "NightMok"
+    },
     {
       "file_hash": "65d34c6d",
       "date": "2026-05-15",
